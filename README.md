@@ -1,4 +1,3 @@
-### Hi there 👋
 * Name: Andrei
 
 * Programming Languages: C, NASM
