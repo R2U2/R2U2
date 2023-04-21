@@ -1,6 +1,6 @@
 * Name: Andrei
 
-* Programming Languages: C, NASM
+* Programming Languages: C, C++, NASM
 
 * Languages: RU, US, UA, DE
 
