@@ -1,14 +1,12 @@
 * Name: Andrei
 
-* Programming Languages: C, C++, NASM
+* Programming Languages: C, C++
 
 * Languages: RU, US, UA, DE
 
 * Country: RU
 
 * OS: ArchLinux x86_64
-
-* Editor: Neovim
 
 * Compiler: GCC with glibc
 
