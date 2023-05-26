@@ -22,6 +22,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,bash,js&perline=6"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=honakac" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honakac" />
+  <img src="https://github-readme-stats.vercel.app/api?username=honakac&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honakac&show_icons=true&theme=radical" />
 </div>
