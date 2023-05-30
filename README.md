@@ -19,7 +19,7 @@
 # Languages
   
   <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,bash,js&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,bash,js,nodejs,linux&perline=10"/>
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=honakac&show_icons=true&theme=radical" />
