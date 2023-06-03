@@ -5,8 +5,8 @@
 ## STATS
 
   <br/>
-  <img src="https://img.shields.io/github/stars/honakac?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/honakac?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/R2U2?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/R2U2?style=for-the-badge"/>
   <br/>
 
 # OS
@@ -22,6 +22,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,bash,js,nodejs&perline=10"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=honakac&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honakac&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R2U2&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R2U2&show_icons=true&theme=radical" />
 </div>
