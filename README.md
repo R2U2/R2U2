@@ -1,4 +1,4 @@
-* Hi, I'm Andrei, I'm 13 years old, I am a programmer and I know programming languages: C, C++, Node.JS, NASM(i386 processor architecture).
+* Hi, I'm Andrey, I'm 13 years old, I am a programmer and I know programming languages: C, C++, Node.JS, NASM(i386 processor architecture).
 * I am engaged in programming from about 6 years.
 
 <div align="center">
